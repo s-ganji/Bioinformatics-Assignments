@@ -1,5 +1,5 @@
 # Bioinformatics-Assignments
-Bioinformatics course assignments, Spring 2019
+Bioinformatics course assignments, Spring 2020
 ## Question 1
 Get two inputs from user, then find the global alignment between the two input strings using the affine gap method.
 ## Question 2
